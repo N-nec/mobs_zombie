@@ -30,7 +30,7 @@ mobs:register_mob("mobs_zombie:zombie", {
 	light_damage = 0,
 	fall_damage = 1,
 	fear_height = 10,
-	view_range = 14,
+	view_range = 10,
 	animation = {
 		speed_normal = 10,
 		speed_run = 13,
@@ -91,7 +91,7 @@ mobs:register_mob("mobs_zombie:zombie2", {
 	light_damage = 0,
 	fall_damage = 1,
 	fear_height = 10,
-	view_range = 14,
+	view_range = 10,
 	animation = {
 		speed_normal = 10,
 		speed_run = 13,
@@ -144,7 +144,7 @@ mobs:register_mob("mobs_zombie:zombie_torso", {
 	light_damage = 0,
 	fall_damage = 1,
 	fear_height = 10,
-	view_range = 14,
+	view_range = 10,
 	animation = {
 		speed_normal = 10,
 		speed_run = 13,
