@@ -46,7 +46,7 @@ mobs:spawn({
 	min_light = 0,
 	chance = 2000,
 	active_object_count = 1,
-	min_height = 0,
+	min_height = -100,
 	max_height = 100,
          --  interval = 30
             day_toggle = nil
@@ -90,7 +90,7 @@ mobs:spawn({
 	min_light = 0,
 	chance = 3000,
 	active_object_count = 1,
-	min_height = 0,
+	min_height = -100,
 	max_height = 100,
          --  interval = 30
             day_toggle = false
@@ -147,7 +147,7 @@ neighbors = {
 	min_light = 0,
 	chance = 2000,
 	active_object_count = 1,
-	min_height = 0,
+	min_height = -100,
 	max_height = 100,
             -- interval = 30
 
