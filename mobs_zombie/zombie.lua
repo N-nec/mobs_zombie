@@ -1,23 +1,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 mobs:register_mob("mobs_zombie:zombie", {
 	type = "monster",
-	reach = 2,
+	reach = 1,
 	damage = 2,
 	attack_type = "dogfight",
 	hp_min = 62,
@@ -78,7 +64,7 @@ mobs:register_egg("mobs_zombie:zombie", "zombie", "default_tree.png", 1)
 
 mobs:register_mob("mobs_zombie:zombie2", {
 	type = "monster",
-	reach = 2,
+	reach = 1,
 	damage = 2,
 	attack_type = "dogfight",
 	hp_min = 62,
@@ -131,7 +117,7 @@ mobs:register_egg("mobs_zombie:zombie2", "zombie2", "default_tree.png", 1)
 
 mobs:register_mob("mobs_zombie:zombie_torso", {
 	type = "monster",
-	reach = 2,
+	reach = 1,
 	damage = 2,
 	attack_type = "dogfight",
 	hp_min = 62,
