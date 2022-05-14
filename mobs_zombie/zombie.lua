@@ -9,7 +9,7 @@ mobs:register_mob("mobs_zombie:zombie", {
 	hp_min = 62,
 	hp_max = 72,
 	armor = 130,
-	collisionbox = {-0.4, 0, -0.4, 0.4, 3, 0.4},
+	collisionbox = {-0.4, 0, -0.4, 0.4, 1.7, 0.4},
 	visual = "mesh",
 	mesh = "zombie.b3d",
 	textures = {
@@ -70,7 +70,7 @@ mobs:register_mob("mobs_zombie:zombie2", {
 	hp_min = 62,
 	hp_max = 72,
 	armor = 130,
-	collisionbox = {-0.4, 0, -0.4, 0.4, 3, 0.4},
+	collisionbox = {-0.4, 0, -0.4, 0.4, 1.7, 0.4},
 	visual = "mesh",
 	mesh = "zombie2.b3d",
 	textures = {
